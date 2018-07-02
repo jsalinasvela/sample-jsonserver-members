@@ -29,6 +29,120 @@
 			"cibertec_id":"I201614905",
 			"first_name":"Roberto Antonio",
 			"last_name":"Benavides Torres"
+		},
+		{
+			"id":6,
+			"cibertec_id":"I201613429",
+			"first_name":"Alex Mijail",
+			"last_name":"Gamboa Sanchez"
+		},
+		{
+			"id":7,
+			"cibertec_id":"I201514167",
+			"first_name":"Anthony Davis",
+			"last_name":"Livandro Melo"
+		},
+		{
+			"id":8,
+			"cibertec_id":"I201613825",
+			"first_name":"Anthony Erik",
+			"last_name":"Mamani Quispe"
+		},
+		{
+			"id":9,
+			"cibertec_id":"I201520956",
+			"first_name":"Gianluka Paolo",
+			"last_name":"Riojas Rosas"
+		},
+		{
+			"id":10,
+			"cibertec_id":"I201613980",
+			"first_name":"Jesus Arturo",
+			"last_name":"Franco Ramos"
+		},
+		{
+			"id":11,
+			"cibertec_id":"I201614494",
+			"first_name":"Nelson Jack",
+			"last_name":"Huaman Mendez"
+		},
+		{
+			"id":12,
+			"cibertec_id":"pkarias",
+			"first_name":"Katherine",
+			"last_name":"Arias Herrera"
+		},
+		{
+			"id":13,
+			"cibertec_id":"I201614234",
+			"first_name":"Joel Ric",
+			"last_name":"Vargas Condori"
+		},
+		{
+			"id":14,
+			"cibertec_id":"I201615928",
+			"first_name":"Jorge Guillermo",
+			"last_name":"Yucra Maldonado"
+		},
+		{
+			"id":15,
+			"cibertec_id":"I201610744",
+			"first_name":"Juan Diego",
+			"last_name":"Salazar Delgado"
+		},
+		{
+			"id":16,
+			"cibertec_id":"I201522911",
+			"first_name":"Luis Alonso",
+			"last_name":"Flores Elguera"
+		},
+		{
+			"id":17,
+			"cibertec_id":"I201523126",
+			"first_name":"Luis Andres",
+			"last_name":"Condori Chumbisilla"
+		},
+		{
+			"id":18,
+			"cibertec_id":"I201514326",
+			"first_name":"Michael Anderson",
+			"last_name":"Rojas Campos"
+		},
+		{
+			"id":19,
+			"cibertec_id":"I201614998",
+			"first_name":"Nielsen Richard",
+			"last_name":"Puma"
+		},
+		{
+			"id":20,
+			"cibertec_id":"I201522701",
+			"first_name":"Oscar Daniel",
+			"last_name":"Chinchay Vicuña"
+		},
+		{
+			"id":21,
+			"cibertec_id":"I201615065",
+			"first_name":"Paul Abraham",
+			"last_name":"Caceres Cruz"
+		},
+		{
+			"id":22,
+			"cibertec_id":"I201614458",
+			"first_name":"Roggers Franz",
+			"last_name":"Zela Ruiz"
+		},
+		{
+			"id":23,
+			"cibertec_id":"I201614243",
+			"first_name":"Wilian",
+			"last_name":"Llano Choquecahua"
+		},
+		{
+			"id":24,
+			"cibertec_id":"I201615147",
+			"first_name":"Ulises Ronal",
+			"last_name":"Tello Humpire"
 		}
 	],
 	"organization":{
