@@ -30,5 +30,9 @@
 			"first_name":"Roberto Antonio",
 			"last_name":"Benavides Torres"
 		}
-	]
+	],
+	"organization":{
+		"institution_name":"Cibertec",
+		"sub_grupo":"Desarrollo de Aplicaciones Móviles"
+	}
 }
