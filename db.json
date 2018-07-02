@@ -1,0 +1,34 @@
+{
+	"members":[
+		{
+			"id":1,
+			"cibertec_id":"I201612010",
+			"first_name":"Jose Jesus",
+			"last_name":"Salinas Vela"
+		},
+		{
+			"id":2,
+			"cibertec_id":"I201615829",
+			"first_name":"Fredy",
+			"last_name":"Mamani Hancco"
+		},
+		{
+			"id":3,
+			"cibertec_id":"I201614505",
+			"first_name":"Carlos Alberto",
+			"last_name":"Anco Rivera"
+		},
+		{
+			"id":4,
+			"cibertec_id":"I201514790",
+			"first_name":"Heber",
+			"last_name":"Rodriguez Mendoza"
+		},
+		{
+			"id":5,
+			"cibertec_id":"I201614905",
+			"first_name":"Roberto Antonio",
+			"last_name":"Benavides Torres"
+		},
+	]
+}
